@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="buttonSend">SEND</string>
+    <string name="labelName">Name</string>
+    <string name="labelPassword">Password</string>
+    <string name="hellotext">Hello</string>
 </resources>
