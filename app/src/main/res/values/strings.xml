@@ -7,4 +7,10 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="dummy_content2">DUMMY\nCONTENT DOS</string>
+    <string name="buttonPlay">PLAY</string>
+    <string name="buttonXbox">XBOX</string>
+    <string name="buttonnNintendo">WII</string>
+    <string name="buttonPc">PC</string>
+    <string name="buttonBack">GO BACK</string>
+    <string name="textViewHello">Hello</string>
 </resources>
